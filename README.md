@@ -19,7 +19,7 @@ Please note that this project is still a work in progress. I am actively working
 
 ## Installation
 
-To use this code repository, simply clone or download the files to your local machine. There are no dependencies or prerequisites required for using this code.
+To use this code repository, simply clone or download the files to your local machine.
 
 ## Usage
 
